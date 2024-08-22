@@ -1,7 +1,14 @@
 ## Isaiah Wallace
-Currently enrolled at Georgian College, in a 2 year program 
+Currently enrolled at Georgian College, in a 2 year Computer Programming Course
 
 ## Languages Used
+* Java
+* C#
+* HTML
+* CSS
+* JavaScript
+* Python
+* PhP
 
 
 <!--
