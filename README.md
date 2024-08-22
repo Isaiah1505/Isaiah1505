@@ -1,5 +1,5 @@
 ## Isaiah Wallace
-Currently enrolled at Georgian College, in a 2 year Computer Programming Course
+<p>Currently enrolled at Georgian College, in a 2 year Computer Programming Course</p>
 
 ## Languages Used
 * Java
